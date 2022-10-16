@@ -54,7 +54,7 @@ origin	https://github.com/Your_Username/MedBuddy.git (push)
 To add upstream to remote, run:
 
 ```sh
-git remote add upstream https://github.com/Aman-Codes/MedBuddy.git
+git remote add upstream https://github.com/ShivamAgarwal-code/Medi-Help.git
 ```
 
 Again run `git remote -v`, the response should look like:
