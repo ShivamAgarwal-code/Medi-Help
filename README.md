@@ -62,8 +62,8 @@ Again run `git remote -v`, the response should look like:
 ```sh
 origin	https://github.com/Your_Username/MedBuddy.git (fetch)
 origin	https://github.com/Your_Username/MedBuddy.git (push)
-upstream	https://github.com/Aman-Codes/MedBuddy (fetch)
-upstream	https://github.com/Aman-Codes/MedBuddy (push)
+upstream	https://github.com/ShivamAgarwal-code/Medi-Help.git (fetch)
+upstream	https://github.com/ShivamAgarwal-code/Medi-Help.git (push)
 ```
 
 4. Once the remote is set, install all the necessary dependencies by the following command:
